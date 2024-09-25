@@ -1,0 +1,22 @@
+.container{
+    background-color: chocolate;
+    height: 100vh;
+    width: 500px;
+    border-radius: 12px;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+}
+.heading{
+    font-family: Roboto;
+     color:darkgray;
+}
+.btn1{
+    background-color:blueviolet;
+    height: 60px;
+    width: 150px;
+    border-radius: 12px;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+}
